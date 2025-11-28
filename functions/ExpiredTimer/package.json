@@ -1,0 +1,12 @@
+{
+	"name": "Expiredtimer",
+	"version": "1.0.0",
+	"main": "expiredTimer.js",
+	"author": "murs4002@gmail.com",
+	"dependencies": {
+		"axios": "^1.13.2",
+		"dotenv": "^17.2.3",
+		"mongoose": "^9.0.0",
+		"zcatalyst-sdk-node": "latest"
+	}
+}
