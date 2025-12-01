@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "53374000000013001",
+      "name": "cliq-pomodoro-extension",
+      "domain": {
+        "id": "10111970216",
+        "name": "cliq-pomodoro-extension-907455368.development"
+      },
+      "timezone": "America/Los_Angeles",
+      "env": [
+        {
+          "idx": 1,
+          "id": "907455368",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

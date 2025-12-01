@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "targets": [
+      "cliq_pomodoro_extension_function",
+      "expiredtimer"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}
